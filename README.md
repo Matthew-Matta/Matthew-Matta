@@ -1,7 +1,7 @@
 ![MasterHead](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 <h1 align="center">Hi 👋, I'm Matthew Matta</h1>
 <h3 align="center">A Computer Engineering Student @ University Of Waterloo! Seeking Summer 2023 SWE Internships</h3>
-<img align="right" alt="Coding" width="400" src="https://i.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.webp”>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=matthew-matta&label=Profile%20views&color=0e75b6&style=flat" alt="matthew-matta" /> </p>
 
